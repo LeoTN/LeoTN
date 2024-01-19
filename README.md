@@ -18,6 +18,10 @@
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" alt="powershell" width="40" height="40"/>
   </a>
+  <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.autohotkey.com/static/ahk_logo_no_text.svg" alt="autohotkey" width="40" height="40"/>
+  </a>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
