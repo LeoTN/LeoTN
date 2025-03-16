@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=leotn&label=Profile%20views&color=0e75b6&style=flat" alt="leotn"/>
 </p>
 
-- 🛠️ Currently working on **[gtav-tweaks](https://github.com/LeoTN/gtav-tweaks)**.
+- 🛠️ Currently working on **[yt-dlp-autohotkey-gui](https://github.com/LeoTN/yt-dlp-autohotkey-gui)** and **[gtav-tweaks](https://github.com/LeoTN/gtav-tweaks)**.
 - 🔍 I’m learning **PowerShell** & how to create, develop and maintain my software projects.
 - 🌟 Fun fact: **The term "bug" in the context of computer issues was coined when a real insect got stuck in an early computer, causing malfunctions. That's how the term "debugging" for fixing errors came about!**
 
