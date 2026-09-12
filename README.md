@@ -5,7 +5,7 @@
 </p>
 
 > [!NOTE]
-> Currently working on **[yt-dlp-autohotkey-gui](https://github.com/LeoTN/yt-dlp-autohotkey-gui)** and **[step-cli-tools](https://github.com/LeoTN/step-cli-tools)**.
+> Currently working on **[PowerRules](https://github.com/LeoTN/PowerRules)**.
 
 <div class="container">
   <div class="languages-tools">
